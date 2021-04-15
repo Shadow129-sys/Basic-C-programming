@@ -71,7 +71,7 @@ int main(){
 	#endif
 	
 	code executes only when microname is defined else code1 will be executed
-	but we may or maynot include #else block
+	but we may or may not write #else block
 	*/
 	#ifdef area
 		// executes only when area is defined
