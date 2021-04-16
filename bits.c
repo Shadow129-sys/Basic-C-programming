@@ -172,7 +172,7 @@ int main(){
 	(ch & mask)?printf("Char is lowercase\n"):printf("Char is uppercase\n");
 
 
-	// change uppercase to lowercase and if it is uppercase it will remain in uppercase
+	// change lower to upper and if it is lower keep it in lower case
 	// but make sure that the ch is an alphabet
 	ch = 'e';
 	printf("ch before converting to uppercase %c\n", ch);
@@ -181,7 +181,7 @@ int main(){
 	printf("ch after converting to uppercase %c\n", ch);
 
 
-	// change lower to upper and if it is lower keep it in lower case
+	// change uppercase to lowercase and if it is uppercase it will remain in uppercase
 	// but make sure that the ch is an alphabet
 	ch = 'E';
 	printf("ch before converting to lowercase %c\n", ch);
@@ -192,7 +192,7 @@ int main(){
 
 	// change uppercase to lowercase and lowercase to uppercase
 	// but make sure that the ch is an alphabet
-	ch = 'e';
+	ch = 'f';
 	printf("ch before toggling %c\n", ch);
 	mask = 0x20;
 	ch ^= mask;
