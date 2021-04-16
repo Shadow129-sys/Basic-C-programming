@@ -4,7 +4,7 @@
 
 /* bits
 why we should use bits ?
--> because bits are generally faster than opther operaters like +,-,*,/,etc.
+-> because bits are generally faster than operaters like +,-,*,/,etc.
 there are 
 */
 
