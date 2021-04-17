@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	/* 
-	One thing to note is that there is no such thing as string
+    /* 
+    One thing to note is that there is no such thing as string
     present in C programming, string are just array of character
     characters are a single alphanumeric character
     every character have a integer value that means every char has it's
