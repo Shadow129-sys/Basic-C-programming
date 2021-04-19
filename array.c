@@ -4,7 +4,7 @@
 int main(){
 	int arr[10];
 	// arrays ar just list of variable of a specific datatype
-	// array index starts from 0
+	// array index starts from 0 
 	// the above statement declares an array of 10 integers in memory
 	// an array of size 10 means the last index of array is 9, first index being 0
 
