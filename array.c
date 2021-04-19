@@ -30,7 +30,7 @@ int main(){
 	// One thing to remember is that arrays are also pointer based
 	printf("Memory of arr[0] : %p\n", arr);
 	// this prints the memory location that arr pointer points to
-
+ 
 	printf("Memory of arr[1] : %p\n", arr+1);
 	// this prints the memory location where arr[1] is stored
 	// int are of 4 bytes if we see carefully then there is difference
