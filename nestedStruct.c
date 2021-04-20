@@ -13,7 +13,7 @@ struct Person{
 };
 
 int main(){
-	struct Person person1 = { "Jhon Joe" ,{ "Root st." , 120035 }};
+	struct Person person1 = {"Jhon Joe" ,{ "Root st." , 120035 }};
 	// defines a variable of struct Person 
 	printf("Name : %s\n", person1.name);
 	printf("Street : %s\n", person1.Address.street);
