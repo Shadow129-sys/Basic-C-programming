@@ -28,7 +28,7 @@ int main(){
 	strcpy(target, source) -> copies source to target
 	strncpy(target, source, n) -> copies first n characters from source to target
 	strcmp(str1,str2) -> compares string str1 and str2 char by char, returns the value where they mismatch
-	strcmp(str1,str2,n) -> compares first n characters
+	strncmp(str1,str2,n) -> compares first n characters
 	strcmpi(str1,str2) -> compares str1 and str2 by ignoring their case, that means "abc" and "AbC" are equal i.e. it will return 0
 	strnicmp(str1,str2,n) -> compares first n characters of str1 and str2 by ignoring their case
 	*/
