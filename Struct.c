@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <string.h>
+#include <stdio.h> 
+#include <string.h> 
 #include <stdlib.h>
 /*
 struct are nothing but user defined datatype like int,char,long,float,etc.
