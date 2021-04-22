@@ -4,7 +4,7 @@
 /* MACRO in C
 they are used for diffrent purposes in C programming
 e.g. if we want to define something in our program
-*/
+*/ 
 
 #define a 10
 // set the value of a to be 10
@@ -19,7 +19,7 @@ e.g. if we want to define something in our program
 // this means is gives us the area of square of size x
 /*
 #undef macroname
-
+ 
 This statement is used to undefine some defined micro
 in this program i can write
 #undef area
