@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-
+ 
 /* MACRO in C
 they are used for diffrent purposes in C programming
 e.g. if we want to define something in our program
