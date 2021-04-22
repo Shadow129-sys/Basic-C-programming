@@ -31,7 +31,7 @@ that means area will not work
 int main(){
 	printf("value of a : %d\n", a);
 	// prints the value of a 
-
+ 
 	char c = 'e';
 	bool flag = isDigit(c);
 	printf("Result of isDigit() : %d\n", flag);
