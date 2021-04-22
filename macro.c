@@ -5,7 +5,7 @@
 they are used for diffrent purposes in C programming
 e.g. if we want to define something in our program
 */ 
-
+ 
 #define a 10
 // set the value of a to be 10
 #define isDigit(x) (x>='0' && x<='9')
@@ -59,7 +59,7 @@ int main(){
 	// code to execute func area(x)
 
 	printf("Area of square of side %d is %d\n", side, ar);
-	// prints the area
+	// prints the area 
 
 	/* ifdef
 	syntax :
